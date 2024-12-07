@@ -45,7 +45,7 @@ jobs:
       - name: Configure git CLI
         run: |
           git config --global user.email "git-bot-user@python-course.com"
-          git config --global user.name "phitoduck"
+          git config --global user.name "Utsav Savaliya"
       - name: Run tests
         run: |
           make install
